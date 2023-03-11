@@ -13,15 +13,25 @@ What excites me about tech is the endless possibilities it provides for solving 
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Shelf-Respect** (2008 to 2023)  
+_Self-Employed Industrail Installations Engineer_
+Oxford, United Kingdom
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Responsible For;
+-Installation & Commissioning Projects
+-Detailing & Interpreting AutoCAD Schematics
+-Technical Clarification of Storage Systems and Modifications
+-Site Coordination for Equipment Installation
+-Time Management
+-Health & Safety
+-Handover & Final Acceptance
+-Documentation from Equipment Supplier
+-Training & Supervising New Employees
+-Handover & Final Acceptance
+Qualification & Certifications Obtained;
+-Storage Equipment Installers Registration Scheme (SEIRS), an
+initiative of the (SEMA)
+-Construction Skills Certification Scheme (CSCS)
 
 ## Skills
 
