@@ -18,20 +18,19 @@ _Self-Employed Industrail Installations Engineer_
 Oxford, United Kingdom
 
 - Responsible For;
--Installation & Commissioning Projects
--Detailing & Interpreting AutoCAD Schematics
--Technical Clarification of Storage Systems and Modifications
--Site Coordination for Equipment Installation
--Time Management
--Health & Safety
--Handover & Final Acceptance
--Documentation from Equipment Supplier
--Training & Supervising New Employees
--Handover & Final Acceptance
+-  Installation & Commissioning Projects
+-  Detailing & Interpreting AutoCAD Schematics
+-  Technical Clarification of Storage Systems and Modifications
+-  Site Coordination for Equipment Installation
+-  Time Management
+-  Health & Safety
+-  Handover & Final Acceptance
+-  Documentation from Equipment Supplier
+-  Training & Supervising New Employees
+-  Handover & Final Acceptance
 Qualification & Certifications Obtained;
--Storage Equipment Installers Registration Scheme (SEIRS), an
-initiative of the (SEMA)
--Construction Skills Certification Scheme (CSCS)
+- Storage Equipment Installers Registration Scheme (SEIRS), an initiative of the (SEMA)
+- Construction Skills Certification Scheme (CSCS)
 
 ## Skills
 
