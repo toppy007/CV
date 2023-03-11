@@ -1,6 +1,8 @@
-## Your Name
+## Christopher Toplisek
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+As a mechanical engineer with several years of experience in the field, I have developed a strong analytical mindset, attention to detail, and problem-solving skills. However, I am now transitioning to a career in software development and currently pursuing further education at the Makers coding boot-camp.
+
+What excites me about tech is the endless possibilities it provides for solving complex problems and improving people's lives. I am passionate about programming and the power it has to create innovative solutions that can make a difference. With my strong background in engineering and my newfound skills in software development, I am confident that I can make a valuable contribution to any tech team. I am excited about this new chapter in my career and eager to continue learning and growing in this field.
 
 ## Projects
 
