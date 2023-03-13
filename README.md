@@ -28,6 +28,7 @@ Oxford, United Kingdom
 -  Documentation from Equipment Supplier
 -  Training & Supervising New Employees
 -  Handover & Final Acceptance
+
 **Qualification & Certifications Obtained;**
 -  Storage Equipment Installers Registration Scheme (SEIRS), an initiative of the (SEMA)
 -  Construction Skills Certification Scheme (CSCS)
