@@ -17,7 +17,7 @@ What excites me about tech is the endless possibilities it provides for solving 
 _Self-Employed Industrail Installations Engineer_
 Oxford, United Kingdom
 
-- Responsible For;
+**Responsible For;**
 -  Installation & Commissioning Projects
 -  Detailing & Interpreting AutoCAD Schematics
 -  Technical Clarification of Storage Systems and Modifications
@@ -28,7 +28,7 @@ Oxford, United Kingdom
 -  Documentation from Equipment Supplier
 -  Training & Supervising New Employees
 -  Handover & Final Acceptance
-- Qualification & Certifications Obtained;
+**Qualification & Certifications Obtained;**
 -  Storage Equipment Installers Registration Scheme (SEIRS), an initiative of the (SEMA)
 -  Construction Skills Certification Scheme (CSCS)
 
