@@ -34,7 +34,7 @@ Qualification & Certifications Obtained;
 
 ## Skills
 
-At Makers coding bootcamp, I will learn the skills and techniques necessary to become a professional software developer. The curriculum is designed to teach you the fundamentals of programming, including object-oriented programming, version control, and testing. You'll learn how to use popular programming languages like Ruby, JavaScript, and HTML/CSS, and you'll work on a variety of projects to gain hands-on experience. Throughout the course, you'll also develop soft skills like communication and collaboration, which are essential for working in a team environment. By the end of the bootcamp, you'll have the knowledge and experience to launch your career in software development.
+At Makers coding bootcamp, I will learn the skills and techniques necessary to become a professional software developer. The curriculum is designed to teach me the fundamentals of programming, including object-oriented programming, version control, and testing. I'll learn how to use popular programming languages like Ruby, JavaScript, and HTML/CSS, and I'll work on a variety of projects to gain hands-on experience. Throughout the course, i'll also develop soft skills like communication and collaboration, which are essential for working in a team environment. By the end of the bootcamp, i'll have the knowledge and experience to launch a career in software development.
 
 ## Education
 
