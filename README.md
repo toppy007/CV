@@ -8,9 +8,7 @@ What excites me about tech is the endless possibilities it provides for solving 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Sentiment Analysis** 
-  **Jun 2023 - Present 
-    Client (Fintech)**            | A webapp to do x. | React, Jest, etc. |
+| **Sentiment Analysis Jun 2023 - Present Client (Fintech)**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
