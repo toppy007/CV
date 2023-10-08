@@ -6,11 +6,11 @@ What excites me about tech is the endless possibilities it provides for solving 
 
 ## Projects
 
-| **Title** | **Overview:** | **Technical Profificiencies:** |
-|:---:|:---:|:---:|
-| **Sentiment Analysis Jun 2023 - Present Client (Fintech) - Private Repository** | Created a robust system to analyze and classify sentiment in text data, providing valuable insights for decision-making. Implemented data preprocessing. Actively maintained and enhanced the project, exploring new techniques and incorporating user feedback. | **Python, PostgreSQL, Git and GitHub, Pytest, Pandas, NumPy, OpenAI, BeautifulSoup, PyPDF, Urllib, Requests.** |
-| **Smart Umbrella Stand Jan 2023 - Feb 2023 Personal Project - Public Repository** | Developed a smart umbrella stand  that combines weather data and LED visualization to enhance user experience and preparedness. Implemented electronics integration, coding, and 3D modeling to create a functional and stylish product | **C++, Arduino, Gtest, PlatformIO, ESP32, Embedded IC, NeoPixel RGB LED (WS2812).** |
-| **AI-Tastic Tales May 2023 - Jun 2023 Group Project - Public Repository** | Personalized Storytelling & Visual Imagery Generator. This innovative program harnesses the capabilities of the ChatGPT and Stable Diffusion APIs. | **JavaScript MERN (Express, React, Node, MongoDB, Jest, Cypress, Handlebars, Nodemon), OpenAI, Stable Diffffusion** |
+| **Title** | **Overview:** | **Link:** | **Technical Profificiencies:** |
+|:---:|:---:|:---:|:---:|
+| **Sentiment Analysis Jun 2023 - Present Client (Fintech) - Private Repository** | Created a robust system to analyze and classify sentiment in text data, providing valuable insights for decision-making. Implemented data preprocessing. Actively maintained and enhanced the project, exploring new techniques and incorporating user feedback. | link | **Python, PostgreSQL, Git and GitHub, Pytest, Pandas, NumPy, OpenAI, BeautifulSoup, PyPDF, Urllib, Requests.** |
+| **Smart Umbrella Stand Jan 2023 - Feb 2023 Personal Project - Public Repository** | Developed a smart umbrella stand  that combines weather data and LED visualization to enhance user experience and preparedness. Implemented electronics integration, coding, and 3D modeling to create a functional and stylish product | link | **C++, Arduino, Gtest, PlatformIO, ESP32, Embedded IC, NeoPixel RGB LED (WS2812).** |
+| **AI-Tastic Tales May 2023 - Jun 2023 Group Project - Public Repository** | Personalized Storytelling & Visual Imagery Generator. This innovative program harnesses the capabilities of the ChatGPT and Stable Diffusion APIs. | link | **JavaScript MERN (Express, React, Node, MongoDB, Jest, Cypress, Handlebars, Nodemon), OpenAI, Stable Diffffusion** |
 
 ## Work Experience
 
