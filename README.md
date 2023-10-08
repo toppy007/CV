@@ -4,6 +4,9 @@ As a mechanical engineer with several years of experience in the field, I have d
 
 What excites me about tech is the endless possibilities it provides for solving complex problems and improving people's lives. I am passionate about programming and the power it has to create innovative solutions that can make a difference. With my strong background in engineering and my newfound skills in software development, I am confident that I can make a valuable contribution to any tech team. I am excited about this new chapter in my career and eager to continue learning and growing in this field.
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,aws,bootstrap,cpp,docker,arduino,express,flask,firebase,git,github,ai,jest,kubernetes,matlab,mongodb,mysql,nodejs,postgres,postman,raspberrypi,react,ruby,sqlite,sketchup,svg,unity,vscode,webpack)](https://skillicons.dev)
+
 ## Projects
 
 | **Title** | **Overview:** | **Link:** | **Technical Profificiencies:** |
